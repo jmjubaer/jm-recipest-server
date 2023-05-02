@@ -1,0 +1,44 @@
+[
+    {
+        "chefPicture": "../data/image/chef_1.jpg",
+        "chefName": "Mike Griffin",
+        "yearsOfExperience": 8,
+        "numberOfRecipes": 18,
+        "likes": 2000
+    },
+    {
+        "chefPicture": "../data/image/chef_2.jpg",
+        "chefName": "Jane Smith",
+        "yearsOfExperience": 7,
+        "numberOfRecipes": 25,
+        "likes": 1500
+    },
+    {
+        "chefPicture": "../data/image/chef_3.jpg",
+        "chefName": "Sam Lee",
+        "yearsOfExperience": 12,
+        "numberOfRecipes": 8,
+        "likes": 3000
+    },
+    {
+        "chefPicture": "../data/image/chef_4.jpg",
+        "chefName": "Emily Chen",
+        "yearsOfExperience": 5,
+        "numberOfRecipes": 10,
+        "likes": 800
+    },
+    {
+        "chefPicture": "../data/image/chef_5.jpg",
+        "chefName": "Mark Johnson",
+        "yearsOfExperience": 13,
+        "numberOfRecipes": 15,
+        "likes": 5000
+    },
+    {
+        "chefPicture": "../data/image/chef_6.jpg",
+        "chefName": "Alice Kim",
+        "yearsOfExperience": 7,
+        "numberOfRecipes": 19,
+        "likes": 1200
+    }
+]
