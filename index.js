@@ -16,8 +16,20 @@ app.get('/chefs', (req, res) => {
     res.send(chefData)
   })
 
+app.get('/chefs/:id', (req, res) => {
+  const id = req.params.id;
+  const data = chefData.find(chef => chef.id == id);
+  res.send(data)
+  })
+
 app.get('/recipes', (req, res) => {
-    res.send(recipeData)
+    res.send(recipeData);
+  })
+
+app.get('/recipes/:id', (req, res) => {
+  const id = req.params.id;
+  const data = recipeData.find(recipe => recipe.id == id);
+  res.send(data);
   })
 
 app.listen(port, () => {
