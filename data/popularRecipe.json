@@ -1,0 +1,134 @@
+[
+    {
+        "recipeName": "Teriyaki Chicken Bowl",
+        "ingredients": [
+            "2 boneless, skinless chicken breasts",
+            "1/4 cup soy sauce",
+            "2 tablespoons brown sugar",
+            "1 tablespoon honey",
+            "1 tablespoon mirin",
+            "1 clove garlic, minced",
+            "1 teaspoon ginger, grated",
+            "1 tablespoon cornstarch",
+            "2 tablespoons water",
+            "Cooked rice",
+            "Sesame seeds, for garnish",
+            "Green onions, sliced, for garnish"
+        ],
+        "cookingMethod": "Stovetop",
+        "rating": 4.9,
+        "image": "https://i.ibb.co/XDcmrH5/download.jpg"
+    },
+    {
+        "recipeName": "Matcha Latte",
+        "ingredients": [
+            "1 teaspoon matcha powder",
+            "1 tablespoon hot water",
+            "1 cup milk",
+            "1 tablespoon honey (optional)"
+        ],
+        "cookingMethod": "Stovetop",
+        "rating": 4.9,
+        "image": "https://i.ibb.co/6swZGTX/Matcha-Latte.jpg"
+    },
+    {
+        "recipeName": "Tempura Shrimp",
+        "ingredients": [
+            "12 large shrimp, deveined",
+            "1/2 cup all-purpose flour",
+            "1/2 cup cornstarch",
+            "1/2 teaspoon baking powder",
+            "1/2 teaspoon salt",
+            "1/2 cup cold water",
+            "Vegetable oil, for frying"
+        ],
+        "cookingMethod": "Deep fryer",
+        "rating": 4.2,
+        "image":"https://i.ibb.co/j3DKykJ/Tempura-Shrimp.jpg"
+    },
+    {
+        "recipeName": "Okonomiyaki",
+        "ingredients": [
+            "1/2 cup flour",
+            "1/2 cup water",
+            "2 eggs",
+            "4 cups cabbage, shredded",
+            "4 slices bacon, chopped",
+            "1/4 cup green onions, sliced",
+            "1/4 cup Japanese mayonnaise",
+            "1/4 cup okonomiyaki sauce",
+            "Bonito flakes, for garnish",
+            "Aonori (dried seaweed flakes), for garnish"
+        ],
+        "cookingMethod": "Stovetop",
+        "rating": 4.5,
+        "image": "https://i.ibb.co/g9k9jd2/Okonomiyaki.jpg"
+    } ,
+    {
+        "recipeName": "Chicken Katsu",
+        "ingredients": [
+            "4 boneless, skinless chicken breasts",
+            "1/2 cup all-purpose flour",
+            "2 eggs, beaten",
+            "1 cup panko breadcrumbs",
+            "Vegetable oil, for frying",
+            "Shredded cabbage, for serving",
+            "Tonkatsu sauce, for serving"
+        ],
+        "cookingMethod": "Stovetop",
+        "rating": 4.3,
+        "image":"https://i.ibb.co/2tJYXkm/Chicken-Katsu.jpg"
+    },
+    {
+        "recipeName": "Tonjiru",
+        "ingredients": [
+            "4 cups dashi (Japanese fish stock)",
+            "1/2 pound pork belly, sliced",
+            "1/2 onion, sliced",
+            "1 carrot, sliced",
+            "1/2 block firm tofu, cubed",
+            "1/4 cup miso paste",
+            "2 green onions, sliced",
+            "2 tablespoons vegetable oil",
+            "1 tablespoon sake"
+        ],
+        "cookingMethod": "Stovetop",
+        "rating": 4.7,
+        "image": "https://i.ibb.co/ygQgykd/Tonjirujpg.jpg"
+    },
+    {
+        "recipeName": "Beef Stir Fry",
+        "ingredients": [
+            "1 pound beef sirloin",
+            "1 red bell pepper",
+            "1 yellow onion",
+            "1/4 cup soy sauce",
+            "2 tablespoons cornstarch"
+        ],
+        "cookingMethod": "Stovetop",
+        "image": "https://i.ibb.co/VL356QZ/Beef-Stir-Fry.jpg",
+        "rating":3.5
+    }  ,
+    {
+        "recipeName": "Tonkotsu Ramen",
+        "ingredients": [
+            "2 pounds pork bones",
+            "1 onion, chopped",
+            "1 piece ginger, sliced",
+            "1 head garlic, halved",
+            "8 cups water",
+            "2 tablespoons soy sauce",
+            "2 tablespoons sake",
+            "1 tablespoon mirin",
+            "1 tablespoon salt",
+            "1 pound ramen noodles",
+            "4 eggs",
+            "4 sheets nori (dried seaweed)",
+            "4 green onions, sliced",
+            "2 cups bean sprouts"
+        ],
+        "cookingMethod": "Stovetop",
+        "rating": 3.9,
+        "image": "https://i.ibb.co/yyvGFqW/Tonkotsu-Ramen.jpg"
+    }
+]

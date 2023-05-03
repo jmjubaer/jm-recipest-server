@@ -4,13 +4,16 @@ const cors = require('cors');
 const port = 5000;
 const chefData = require('./data/ChefInfo.json');
 const recipeData = require('./data/recipe.json');
-
-
+const foodRscipe = require('./data/popularRecipe.json')
 app.use(cors());
 
 app.get('/', (req, res) => {
     res.send('Server is running at http://localhost:5000')
 })
+
+app.get('/foods', (req, res) => {
+    res.send(foodRscipe)
+  })
 
 app.get('/chefs', (req, res) => {
     res.send(chefData)
@@ -27,6 +30,12 @@ app.get('/recipes', (req, res) => {
   })
 
 app.get('/recipes/:id', (req, res) => {
+  const id = req.params.id;
+  const data = recipeData.find(recipe => recipe.id == id);
+  res.send(data);
+  })
+
+app.get('/foods', (req, res) => {
   const id = req.params.id;
   const data = recipeData.find(recipe => recipe.id == id);
   res.send(data);

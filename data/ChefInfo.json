@@ -6,7 +6,7 @@
         "yearsOfExperience": 8,
         "numberOfRecipes": 18,
         "likes": 2000,
-        "short-des": "Masaharu Morimoto is a talented and creative chef with 8 years of experience. She has created 18 delicious recipes that have gained her 2000 likes."
+        "short_des": "Masaharu Morimoto is a talented and creative chef with 8 years of experience. She has created 18 delicious recipes that have gained her 2000 likes."
     },
     {
         "id": 2,
@@ -15,7 +15,7 @@
         "yearsOfExperience": 7,
         "numberOfRecipes": 25,
         "likes": 1500,
-        "short-des": "Nobu Matsuhisa is a versatile chef with 7 years of experience. He has created 25 unique recipes that have gained him 1500 likes."
+        "short_des": "Nobu Matsuhisa is a versatile chef with 7 years of experience. He has created 25 unique recipes that have gained him 1500 likes."
     },
     {
         "id": 3,
@@ -24,7 +24,7 @@
         "yearsOfExperience": 12,
         "numberOfRecipes": 8,
         "likes": 3000,
-        "short-des": "Sam Lee is an experienced and well-respected chef with 12 years of experience. Although he has created only 8 recipes, they have received 3000 likes, indicating his expertise in creating outstanding dishes."
+        "short_des": "Sam Lee is an experienced and well-respected chef with 12 years of experience. Although he has created only 8 recipes, they have received 3000 likes, indicating his expertise in creating outstanding dishes."
     },
     {
         "id": 4,
@@ -33,7 +33,7 @@
         "yearsOfExperience": 5,
         "numberOfRecipes": 10,
         "likes": 800,
-        "short-des": "Emily Chen is a young and talented chef with 5 years of experience. She has created 10 innovative and delicious recipes that have gained her 800 likes."
+        "short_des": "Emily Chen is a young and talented chef with 5 years of experience. She has created 10 innovative and delicious recipes that have gained her 800 likes."
     },
     {
         "id": 5,
@@ -42,7 +42,7 @@
         "yearsOfExperience": 13,
         "numberOfRecipes": 15,
         "likes": 5000,
-        "short-des": "Hiroyuki Sakai is an exceptional chef with an impressive 13 years of experience. He has created 15 outstanding recipes that have been liked by 5000 people, showing his incredible culinary skills."
+        "short_des": "Hiroyuki Sakai is an exceptional chef with an impressive 13 years of experience. He has created 15 outstanding recipes that have been liked by 5000 people, showing his incredible culinary skills."
     },
     {
         "id": 6,
@@ -51,6 +51,6 @@
         "yearsOfExperience": 7,
         "numberOfRecipes": 19,
         "likes": 1200,
-        "short-des": "Alice Kim is a creative and passionate chef with 7 years of experience. She has created 19 delicious and innovative recipes that have gained her 1200 likes."
+        "short_des": "Alice Kim is a creative and passionate chef with 7 years of experience. She has created 19 delicious and innovative recipes that have gained her 1200 likes."
     }
 ]   

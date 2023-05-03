@@ -128,7 +128,7 @@
             ],
             "cookingMethod": "Stovetop",
             "rating": 3.9,
-            "image": ""
+            "image": "https://i.ibb.co/yyvGFqW/Tonkotsu-Ramen.jpg"
         },        
         {
             "recipeName": "Beef Stir Fry",
@@ -288,7 +288,7 @@
             ],
             "cookingMethod": "Stovetop",
             "rating": 3.9,
-            "image": ""
+            "image": "https://i.ibb.co/yyvGFqW/Tonkotsu-Ramen.jpg"
         },  
         {
             "recipeName": "Chirashi Sushi",
